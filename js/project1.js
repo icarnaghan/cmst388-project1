@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', () => {
         // - The message variable should should include your name, age, and a statement about whether you are a student or not. 
         // - Example message format: "Hello, my name is John. I am 25 years old and I am currently a student."
     
-        // DO NOT CHANGE BELOW: The following code selects the messageDisplayArea ID in the HTML file and appends a div 
+        // DO NOT CHANGE: The following code selects the messageDisplayArea ID in the HTML file and appends a div 
         // tag with the message variable defined above.
         const messageDisplayArea = document.getElementById('messageDisplayArea');
         const messageElement = document.createElement('div');
